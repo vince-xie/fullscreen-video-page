@@ -4,4 +4,4 @@ Allows users to quickly create a new page which plays a video (.mp4 or .webm) fu
 
 To use:
 
-Change test.mp4, or test.webm to a reference to the desired video.
+Change test.mp4, or test.webm to a reference to the desired video
